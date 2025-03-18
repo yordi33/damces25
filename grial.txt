@@ -2,4 +2,4 @@ echo "Segundo parcial" > grial.txt
 git add grial.txt
 git commit -m "Añadir archivo grial.txt con el texto 'Segundo parcial'"
 git push origin main
-git push origin main 
+git push origin main  
